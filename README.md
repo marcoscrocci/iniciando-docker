@@ -83,10 +83,12 @@ mysql -uroot -proot
 ### Remover os containers do compose:
 docker compose down
 
-### Instalar a Extensao Remote Container
+### Instalar a Extensão Remote Container
 Digitar Ctrl+Shift+P e selecionar Remote-Container:...
 ...Open...
 ...Rebuild...
 ...Reopen WSL...
 etc.
 
+### Repositório da Live:
+https://github.com/codeedu/live-imersao-fullcycle9-dev-com-docker
