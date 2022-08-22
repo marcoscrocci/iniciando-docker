@@ -92,3 +92,7 @@ etc.
 
 ### Repositório da Live:
 https://github.com/codeedu/live-imersao-fullcycle9-dev-com-docker
+
+
+### Vídeo da Live
+https://www.youtube.com/watch?v=hTEmVxVM3p4
